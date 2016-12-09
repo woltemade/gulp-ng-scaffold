@@ -262,9 +262,9 @@
             var vm = this;
 
              vm.templatePaths = {
-                angularResource: __dirname + '\\templates\\angular-resource.mustache',
-                angularResourceTest: __dirname + '\\templates\\angular-resource-test.mustache',
-                resourceConfig: __dirname + '\\templates\\resource.config.mustache'
+                angularResource: __dirname + '/templates/angular-resource.mustache',
+                angularResourceTest: __dirname + '/templates/angular-resource-test.mustache',
+                resourceConfig: __dirname + '/templates/resource.config.mustache'
             }
 
 
